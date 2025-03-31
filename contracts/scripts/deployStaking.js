@@ -6,7 +6,7 @@ async function main() {
 
     const CroakStaking = await hre.ethers.getContractFactory("CroakStaking");
 
-    const croakTokenAddress = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
+    const croakTokenAddress = "0x117981C7fEAaEaA9a24261f57DC76D1aEa3C05A3";
 
     const croakStaking = await CroakStaking.deploy(croakTokenAddress);
     await croakStaking.waitForDeployment();
