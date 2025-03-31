@@ -2,6 +2,10 @@
 
 Efrog Launch is an **AI-powered meme token launchpad** that allows users to easily create and deploy tokens, stake $CROAK for rewards, and earn exclusive Efroglet NFTs. This platform integrates AI-driven tokenomics, staking rewards, NFT minting, and a governance system powered by $CROAK.
 
+### Deployed Contracts
+
+CROAKTOKEN : 0x117981C7fEAaEaA9a24261f57DC76D1aEa3C05A3
+
 ## ⚙️ **Tech Stack**
 
 ### 💻 **Frontend**
